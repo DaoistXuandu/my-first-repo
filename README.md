@@ -6,3 +6,6 @@ Kelas : PBP E
 
 Hobi : Tidur
 
+Jurusan : Ilmu Komputer
+
+
